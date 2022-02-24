@@ -55,6 +55,7 @@ header{
 .hobbies-description{
     display: flex;
     justify-content: space-between;
+    padding: 20px;
 }
 .hobby{
     height: 70px;
@@ -63,5 +64,5 @@ header{
 .hobbies1{
     height: 50%;
     width: 20%;
-    font-size: smaller;
+    font-size: 10px;
 }
