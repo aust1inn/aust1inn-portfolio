@@ -89,3 +89,10 @@ header{
     color: #000;
     font-size: smaller;
 }
+
+.text-center{
+    background-color: snow;
+}
+.copyright{
+    background-color: rgb(100, 66, 192);
+}
