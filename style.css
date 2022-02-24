@@ -70,3 +70,11 @@ header{
     display: flex;
     justify-content: space-between;
 }
+.email-me{
+    height: 15vh;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 20%;
+    background-color: #FF8C00;
+    border-radius: 20px;
+}
