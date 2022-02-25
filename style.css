@@ -34,6 +34,7 @@ header{
     radial-gradient(circle at 12px 12px,#FF8C00 20%, transparent 22%) 33px 27px/33px 50px;
 }
 
+
 .about-me{
     height: 50vh;
     width: 80%;
@@ -43,9 +44,15 @@ header{
     border-radius: 30px;
     color: #fff;
     text-align: center;
+    transition: 2s height;
 }
 .about-me h2{
     padding: 20px;
+}
+
+.about-me:hover{
+    background-color: rgb(100, 66, 192);
+    height: 60vh;
 }
 .hobbies{
     height: 50vh;
