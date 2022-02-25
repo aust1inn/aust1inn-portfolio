@@ -82,6 +82,14 @@ header{
 .card:hover{
     background-color: pink;
 }
+.btn{
+    transition: 5s width;
+}
+.btn:hover{
+    width: 100px;
+    background-color: white;
+    color: blue;
+}
 .email-me{
     height: 15vh;
     width: 60%;
