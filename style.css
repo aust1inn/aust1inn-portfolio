@@ -60,7 +60,9 @@ header{
     radial-gradient(circle at 12px 12px,#FF8C00 20%, transparent 22%) 33px 27px/33px 50px;
 }
 
-
+.dots:hover{
+    transform: rotate(40deg);
+}
 .about-me{
     height: 50vh;
     width: 80%;
@@ -98,6 +100,13 @@ header{
     height: 50%;
     width: 20%;
     font-size: 10px;
+    transition: 2s width;
+}
+.hobbies1:hover{
+    width: 25%;
+    color: white;
+    font-weight: bolder;
+    font-size: 13px;
 }
 .projects1{
     display: flex;
