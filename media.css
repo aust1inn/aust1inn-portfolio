@@ -1,0 +1,40 @@
+@media only screen and (max-width: 600px) {
+    header{
+        font-size: x-small;
+    }
+    .bi{
+        height: 20px;
+        width: 15px;
+    }
+    header .rounded-circle{
+        height: 120%;
+        width: 70%;
+    }
+    .header2{
+        margin-left: 20%;
+    }
+    .dots{
+        background: none;
+    }
+    .about-me{
+        font-size: 10px;
+    }
+    .hobbies-description{
+        flex-direction: column;
+        margin-left: 30%;
+    }
+    .hobbies{
+        height: 100vh;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .hobbies1{
+        width: 60%;
+    }
+    .email-me{
+        font-size: xx-small;
+    }
+    .projects{
+        font-size: x-small;
+    }
+}
